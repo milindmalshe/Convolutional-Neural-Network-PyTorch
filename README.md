@@ -1,1 +1,1 @@
-# Convolutional-Neural-Network-MNIST-PyTorch
+# Convolutional-Neural-Network-PyTorch
